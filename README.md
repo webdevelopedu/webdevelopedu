@@ -13,11 +13,13 @@
 
 <details open>
 <summary>Мои языки</summary>
+    
 | Ранг | Язык       |
 |-----:|------------|
 |     1| HTML       |
 |     2| CSS        |
 |     3| JavaScript |
+
 </details>
 
 
