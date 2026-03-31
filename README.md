@@ -29,7 +29,7 @@ graph TD;
     Основы_JavaScript/TypeScript/Front-end-->React;
     React-->NodeJS;
     NodeJS-->Основы_AWS;
-    Основы_AWS-->AWS-Программись;
+    Основы_AWS-->AWS-Программист;
 ```
 
 ```topojson
