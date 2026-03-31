@@ -14,8 +14,11 @@
 
 — Аристотель
 
+Уровень английского:
+Чтение технической документации
+
 <details open>
-<summary>Я изучаю языки</summary>
+<summary>Изучаемые языки</summary>
     
 | Ранг | Язык       |
 |-----:|------------|
@@ -25,7 +28,7 @@
 
 </details>
 
-Этапы обучения:
+Этапы моего обучения:
 ```mermaid
 graph TD;
     Дошкольное_образование_JavaScript/Front-end-->Основы_JavaScript/TypeScript/Front-end;
