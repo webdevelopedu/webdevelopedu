@@ -4,7 +4,7 @@
 
 🌱 Сейчас я изучаю веб-программирование в RS School.
 
-<details>
+<details open>
 <summary>Мои основные языки</summary>
   
 | Рейтинг  | Языки      |
