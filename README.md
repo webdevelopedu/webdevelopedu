@@ -2,9 +2,9 @@
 
 **webdevelopedu/webdevelopedu** это репозиторий для ✨ _обучения_ ✨ в RS School.
 
-Привет, меня зовут Максим. Я изучаю программирование в RS School.
+Привет, меня зовут Максим. Я обучаюсь программированию в RS School.
 
-🌱 Сейчас я изучаю веб-программирование.
+🌱 Сейчас я изучаю веб-программирование в RS School.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
