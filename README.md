@@ -25,11 +25,11 @@
 Этапы обучения:
 ```mermaid
 graph TD;
-    JavaScript/Front-end_Pre-school-->JavaScript/TypeScript/Front-end_Fundamentals;
-    JavaScript/TypeScript/Front-end_Fundamentals-->React;
+    Дошкольное_образование_JavaScript/Front-end-->Основы_JavaScript/TypeScript/Front-end;
+    Основы_JavaScript/TypeScript/Front-end-->React;
     React-->NodeJS;
-    NodeJS-->AWS_Fundamentals;
-    AWS_Fundamentals-->AWS_Developer;
+    NodeJS-->Основы_AWS;
+    Основы_AWS-->AWS-Программись;
 ```
 
 ```topojson
