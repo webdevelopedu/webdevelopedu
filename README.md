@@ -23,7 +23,7 @@
 </details>
 
 
-Here is a simple flow chart:
+Этапы обучения на веб-программиста:
 
 ```mermaid
 graph TD;
