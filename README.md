@@ -30,3 +30,13 @@
 </picture>
 
 **webdevelopedu/webdevelopedu** это репозиторий для ✨ _обучения_ ✨ в RS School.
+
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
