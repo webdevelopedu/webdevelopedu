@@ -1,6 +1,6 @@
 # Обо мне -
 
-**webdevelopedu/webdevelopedu** это репозиторий для ✨ _обучения в RS School_ ✨
+**webdevelopedu/webdevelopedu** это репозиторий для ✨ _обучения_ ✨ в RS School.
 
 🌱 Сейчас я изучаю веб-программирование
 
